@@ -1,0 +1,17 @@
+{
+  "name": "t2t-backend",
+  "version": "1.0.0",
+  "description": "Untuk backend di aplikasi trash to trasure, seperti menampilkan artikel terkait daur ulang atau beberapa endpoint lain jika diperlukan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "endpoint",
+    "REST",
+    "API"
+  ],
+  "author": "Firmansyah Wicaksono",
+  "license": "ISC"
+}
