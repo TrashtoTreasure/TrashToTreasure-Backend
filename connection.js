@@ -1,10 +1,10 @@
 const mysql = require('mysql')
 
 const db = mysql.createConnection({
-    host: "34.128.86.5",
-    user:"root",
-    password:"t2t-database",
-    database:"t2tdb",
+    host: "", //use cloud sql host IP
+    user:"root", //username
+    password:"", //database password
+    database:"t2tdb", //database name
     //socketPath: '/cloudsql/artful-guru-386801:asia-southeast2:t2t-database'
 })
 
